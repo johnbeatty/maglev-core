@@ -24,7 +24,7 @@
 export default {
   name: 'ImageLibraryUploader',
   props: {
-    maxsize: { type: Number, default: 2048144 },
+    maxsize: { type: Number, default: 20481440 },
     multiple: { type: Boolean, default: false },
   },
   data() {
